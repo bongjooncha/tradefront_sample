@@ -5,6 +5,7 @@ function DefaultRouter() {
   return (
     <Routes>
       <Route path='/' element={<Main />} />
+      <Route path='/upbit-trade' element={<Main />} />
     </Routes>
   );
 }

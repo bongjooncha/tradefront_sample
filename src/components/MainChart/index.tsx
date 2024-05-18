@@ -24,7 +24,7 @@ const initialOptions: Highcharts.Options = {
     width: 990,
     height: 450,
     zooming: {
-      mouseWheel: false,
+      // mouseWheel: false,
     },
   },
   lang: {
